@@ -1,5 +1,5 @@
 # primeiro-projeto-java-intellij
 
-## Bootcamp Santander Code Girl
+## Bootcamp Santander Code Girls
 
 * Dominando IDEs Java
